@@ -2,9 +2,11 @@
 name = "phylotrim"
 version = "0.2.0"
 edition = "2021"
-description = "Minimalist, ultra-fast column-gap and 3-bp codon MSA trimmer in Rust"
+description = "Ultra-fast, minimalist column-gap and 3-bp codon MSA trimmer written in Rust"
 license = "MIT"
-repository = "https://github.com/Jhe1004/phylotrim"
+repository = "https://github.com/Jhe1004/PhyloTrim"
+homepage = "https://github.com/Jhe1004/PhyloTrim"
+documentation = "https://github.com/Jhe1004/PhyloTrim/blob/main/docs/USER_GUIDE.md"
 readme = "README.md"
 keywords = ["bioinformatics", "phylogenetics", "msa", "alignment", "trimming"]
 categories = ["command-line-utilities", "science"]
